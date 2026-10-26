@@ -1,0 +1,5 @@
+Model,Provider,Accuracy,Latency (ms),Reliability,Cost / 1K requests ($),Best for,Summary
+GPT-4o,OpenAI,93,900,96,19.50,High-value reasoning,Strong quality but slower and more expensive.
+Claude 3.5 Sonnet,Anthropic,91,720,95,15.00,Business analysis,Balanced performance for assisted workflows.
+Gemini 1.5 Pro,Google,89,610,93,10.50,Document processing,Good speed and multimodal capability.
+Llama 3.1 70B,Meta,86,310,90,4.20,High-volume automation,Best option when throughput and cost matter most.

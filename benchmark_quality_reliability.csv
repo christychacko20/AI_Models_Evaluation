@@ -1,0 +1,5 @@
+Model,Provider,Accuracy,Latency (ms),Reliability,Cost / 1K requests ($),Best for,Summary
+GPT-4o,OpenAI,98,780,99,21.00,High-risk decisions,Highest quality and reliability for sensitive workflows.
+Claude 3.5 Sonnet,Anthropic,96,700,98,16.50,Policy and contract review,Excellent reasoning and consistent responses.
+Gemini 1.5 Pro,Google,92,740,95,12.00,Multimodal analysis,Strong support for complex document workflows.
+Llama 3.1 70B,Meta,89,480,93,5.80,Internal productivity,Cost-effective for lower-risk business automation.
